@@ -7,11 +7,19 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+This application is a rental application. Which allows users to rent property, 
+pay rent, and renew lease. A user can search for available property. If a user is a renter
+they can pay for their montly on the application. If a user's lease is expiring they can
+renew their lease if they would like to or look at another avaliable property.
+
 ### Features
-Include Features here
+User login
+Pay rent
+Renew lease
+
 ### Technologies
-Include Technologies here
+Razor Template
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+Creating a data base that will keep track of the available and taken properties with
+reminders when a user will need to  pay for rent
